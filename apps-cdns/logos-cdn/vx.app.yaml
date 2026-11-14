@@ -4,7 +4,7 @@ core:
   id: vezham-logos-cdn
   name: Vezham Logos CDN
   shortName: Logos CDN
-  version: 26.0.3
+  version: 26.27.0
   description: Single app to manage your Vezham Logos CDN
   publisher:
     name: Vezham Technologies Private Limited

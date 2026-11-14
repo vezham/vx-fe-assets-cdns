@@ -4,7 +4,7 @@ core:
   id: vezham-icons-cdn
   name: Vezham Icons CDN
   shortName: Icons CDN
-  version: 26.0.3
+  version: 26.27.0
   description: Single app to manage your Vezham Icons CDN
   publisher:
     name: Vezham Technologies Private Limited
