@@ -5,6 +5,7 @@
 
 .vezham
 apps-cdns/*/public/assets
+apps-cdns/*/public/catalog.json
 
 # MDX content
 # **/content/**/*.mdx
@@ -208,7 +209,3 @@ firebase-debug.*.log*
 # Claude
 .claude/worktrees
 .claude/settings.local.json
-
-apps-cdns/illustrations-cdn/public/catalog.json
-
-apps-cdns/logos-cdn/public/catalog.json

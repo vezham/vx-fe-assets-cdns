@@ -5,6 +5,7 @@
 
 .vezham
 apps-cdns/*/public/assets
+apps-cdns/*/public/catalog.json
 
 # --- END of @vx/fe-kit-config ---
 

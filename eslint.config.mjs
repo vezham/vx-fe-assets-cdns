@@ -33,7 +33,8 @@ const ignores = [
   '**/src/generated/**',
   '**/vite.config.*.timestamp*',
   '**/vitest.config.*.timestamp*',
-  'apps-cdns/*/public/assets'
+  'apps-cdns/*/public/assets',
+  'apps-cdns/*/public/catalog.json'
 ]
 
 const vxLintIgnores = [

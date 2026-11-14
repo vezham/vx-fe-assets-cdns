@@ -9,12 +9,6 @@
       "path": "./packages/vx/react"
     },
     {
-      "path": "./apps-cdns/static-cdn-e2e"
-    },
-    {
-      "path": "./apps-cdns/static-cdn"
-    },
-    {
       "path": "./apps-cdns/illustrations-cdn-e2e"
     },
     {
@@ -31,18 +25,6 @@
     },
     {
       "path": "./apps-cdns/logos-cdn"
-    },
-    {
-      "path": "./apps-cdns/apps-cdn-e2e"
-    },
-    {
-      "path": "./apps-cdns/apps-cdn"
-    },
-    {
-      "path": "./apps-cdns/mail-cdn-e2e"
-    },
-    {
-      "path": "./apps-cdns/mail-cdn"
     }
   ],
   "compilerOptions": {
